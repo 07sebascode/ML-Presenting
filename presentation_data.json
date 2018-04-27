@@ -18,5 +18,5 @@
         "keywords": ["3D","plotting","python"]
     },
     "my_linkedin": "www.linkedin.com/in/sebastiannorena",
-    "latex": "\\begin{document}\r\n\\[\r\n  \\begin{bmatrix}\r\n    9 & 9 \\\\\r\n    6 & 10 \\\\\r\n    5 & 7\r\n  \\end{bmatrix}\r\n  =\r\n  \\begin{bmatrix}\r\n    1 & 0 & 1 \\\\\r\n    0 & 1 & 1 \\\\\r\n    0 & 0 & 1\r\n  \\end{bmatrix}\r\n  .\r\n  \\begin{bmatrix}\r\n    4 & 2 \\\\\r\n    1 & 3 \\\\\r\n    5 & 7\r\n  \\end{bmatrix}\r\n\\]\\\\\r\n\\end{document}\r\n"
+    "latex": "$\\begin{document}\r\n\\[\r\n  \\begin{bmatrix}\r\n    9 & 9 \\\\\r\n    6 & 10 \\\\\r\n    5 & 7\r\n  \\end{bmatrix}\r\n  =\r\n  \\begin{bmatrix}\r\n    1 & 0 & 1 \\\\\r\n    0 & 1 & 1 \\\\\r\n    0 & 0 & 1\r\n  \\end{bmatrix}\r\n  .\r\n  \\begin{bmatrix}\r\n    4 & 2 \\\\\r\n    1 & 3 \\\\\r\n    5 & 7\r\n  \\end{bmatrix}\r\n\\]\\\\\r\n\\end{document}\r\n$"
 }
